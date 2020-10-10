@@ -3,7 +3,6 @@ package com.duncan.bombs
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.TextView
-import android.content.Intent
 
 class DisplayMessageActivity : AppCompatActivity() {
 
